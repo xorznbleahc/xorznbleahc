@@ -26,7 +26,11 @@ I'm a developer interested in building software, experimenting with technologies
 
 
 <p align="center">
-  <img src="YOUR_SQUAREX_BANNER_URL" width="85%" alt="SquareX Banner" />
+  <img
+    src="https://raw.githubusercontent.com/xorznbleahc/xorznbleahc/main/assets/squarex-banner.png"
+    width="85%"
+    alt="SquareX Banner"
+  />
 </p>
 
 SquareX — A community I'm building and developing as a passion project, A Minecraft Server.
