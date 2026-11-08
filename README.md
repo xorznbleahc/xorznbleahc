@@ -17,11 +17,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a developer interested in building software, experimenting with technologies, and turning ideas into practical solutions.
+I'm a skript developer interested in building software, experimenting with technologies, and turning ideas into practical solutions.
 
 - 🎓 1st Year Computer Science student
 - 💻 Interested in software development and AI/ML
 - 🎮 Minecraft plugin and server developer
+- 👨‍💻 Handled Over 30 Minecraft Servers and Freelancing as Lead Developer
 - 🌱 Always learning and improving my skills
 
 ### My Passion Project
