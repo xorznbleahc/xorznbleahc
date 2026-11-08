@@ -1,7 +1,7 @@
 # Hey, I'm Jared! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=180&section=header&text=Jared&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Plugin%20Developer%20%7C%20CS%20Student&descAlignY=65&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=180&section=header&text=Jared&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Skript%20Enthusiast%20%7C%20CS%20Student&descAlignY=65&descSize=18" width="100%" />
 </p>
 
 <p align="center">
