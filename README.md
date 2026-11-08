@@ -27,7 +27,7 @@ I'm a developer interested in building software, experimenting with technologies
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/xorznbleahc/xorznbleahc/main/assets/squarex-banner.png"
+    src="https://raw.githubusercontent.com/xorznbleahc/xorznbleahc/main/assets/squarex-banner.webp"
     width="85%"
     alt="SquareX Banner"
   />
