@@ -19,10 +19,25 @@
 
 I'm a developer interested in building software, experimenting with technologies, and turning ideas into practical solutions.
 
-- 🎓 Computer Science student
+- 🎓 1st Year Computer Science student
 - 💻 Interested in software development and AI/ML
 - 🎮 Minecraft plugin and server developer
 - 🌱 Always learning and improving my skills
+
+
+<p align="center">
+  <img src="YOUR_SQUAREX_BANNER_URL" width="85%" alt="SquareX Banner" />
+</p>
+
+SquareX — A community I'm building and developing as a passion project, A Minecraft Server.
+
+
+<p align="center">
+  <a href="https://discord.gg/SvMTGvDcvD">
+    <img src="https://img.shields.io/badge/Join%20SquareX-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join SquareX" />
+  </a>
+</p>
+
 
 ### 🛠️ Tech Stack
 
