@@ -29,7 +29,7 @@ I'm a developer interested in building software, experimenting with technologies
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/xorznbleahc/xorznbleahc/main/assets/squarex.png"
-    width="75%"
+    width="45%"
     alt="SquareX Banner"
   />
 </p>
@@ -47,6 +47,7 @@ SquareX — A community I'm building and developing as a passion project, A Mine
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/xorznbleahc/xorznbleahc/main/assets/skript.png" height="38" alt="Skript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" />
