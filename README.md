@@ -24,11 +24,12 @@ I'm a developer interested in building software, experimenting with technologies
 - 🎮 Minecraft plugin and server developer
 - 🌱 Always learning and improving my skills
 
+### My Passion Project
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/xorznbleahc/xorznbleahc/main/assets/squarex-banner.webp"
-    width="85%"
+    src="https://raw.githubusercontent.com/xorznbleahc/xorznbleahc/main/assets/squarex.png"
+    width="75%"
     alt="SquareX Banner"
   />
 </p>
